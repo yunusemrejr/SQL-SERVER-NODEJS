@@ -5,4 +5,6 @@ const query = "SELECT * FROM dbo.table1";
 
 sql.query(connectionString, query, (err, rows) => {
     console.log(rows);
-});
+})
+
+;
