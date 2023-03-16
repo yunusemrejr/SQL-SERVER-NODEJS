@@ -1,0 +1,14 @@
+{
+  "name": "mssql-nodejs",
+  "version": "1.0.0",
+  "description": "MS SQL and Node.js connection demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yunus Emre Vurgun",
+  "license": "MIT",
+  "dependencies": {
+    "mssql": "^9.1.1"
+  }
+}
