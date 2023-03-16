@@ -1,5 +1,3 @@
-CREATE DATABASE yunusDemo;
- 
 DROP TABLE IF EXISTS citizen_dep;
 DROP TABLE IF EXISTS customers;
 
